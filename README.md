@@ -1,5 +1,10 @@
 # esctopangular
 
+<!-- COMMIT -->
+$ git add .
+$ git commit -m ""
+$ git push origin main
+
 <!-- CRIAÇÃO DO PROJETO -->
 
 Apos criar a pasta crud>backend executar o seguinte comando dentro da pasta backend
