@@ -15,9 +15,12 @@ Dentro de backend criar arquivo db.json
 Na pasta CRUD instalar o Angular CLI
 $ sudo npm i -g @angular/cli
 
-<!-- CRIAR UM COMPONENTE -->
+<!-- CRIAR UM APP inicial -->
 
 $ ng new frontend --minimal
 
 <!-- Rodar o frontend -->
 $ npm start
+
+<!-- CRIANDO UM COMPONENTE -->
+$ ng generate component components/template/header
